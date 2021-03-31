@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    height: 100vh;
+    background: linear-gradient(0deg , rgb(41, 41, 41), rgb(183, 214, 223));
+}
+h1{
+    color: honeydew;
+    margin-top: 100px;
+    letter-spacing: 2px;
+    font-size: 45px;
+    font-style: italic;
+
+}
+input , select{
+    font-size: 25px;
+    padding: 7px;
+    border: none;
+}
+select{
+    width:100px;
+}
+span{
+    font-size: 25px;
+    color:black;
+    font-weight: 900;
+}
